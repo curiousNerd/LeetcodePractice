@@ -17,7 +17,8 @@ public class FindPivotIndex_724_1 {
          * Runtime - beats 6%
          * Memory - beats 73%
          *
-         * Big O ->
+         * Space Complexity ->
+         * Time Complexity ->
          *
          * Verdict : BruteForce implementation
          * */
@@ -66,7 +67,8 @@ public class FindPivotIndex_724_1 {
          * Runtime - beats 100%
          * Memory - beats 73%
          *
-         * Big O ->
+         * Space Complexity ->
+         * Time Complexity ->
          *
          * Verdict : BestCase implementation
          * */

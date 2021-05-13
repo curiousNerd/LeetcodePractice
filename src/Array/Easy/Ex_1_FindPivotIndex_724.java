@@ -1,6 +1,6 @@
 package Array.Easy;
 
-public class FindPivotIndex_724_1 {
+public class Ex_1_FindPivotIndex_724 {
 
     public int pivotIndex_bruteForce(int[] nums) {
 

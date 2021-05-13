@@ -3,7 +3,7 @@ package Array.Easy;
 import java.util.Arrays;
 import java.util.HashMap;
 
-public class MajorityElement_169_2 {
+public class Ex_2_MajorityElement_169 {
 
     public int majorityElement_self(int[] nums) {
 

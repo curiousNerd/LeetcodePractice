@@ -20,11 +20,11 @@ public class Ex_3_HighFive_1086 {
          *
          *
          * Output: Accepted
-         * Runtime - beats 6.56%
-         * Memory - beats 10.03%
+         * Runtime - beats 85%
+         * Memory - beats 99%
          *
-         * Space Complexity -> > O(1)
-         * Time Complexity -> O(n log n)
+         * Space Complexity -> >
+         * Time Complexity -> O(N log N)
          *
          * Verdict : _
          * */
@@ -52,10 +52,9 @@ public class Ex_3_HighFive_1086 {
 
         int [][] avgArray = new int [uniqueIds][2];
         int row = 0;
-        for(int id: map.keySet()){
+        for(int id: map.keySet()){ //O(n/5) = O(n)
             ArrayList<Integer> arr = map.get(id);
-            Collections.sort(arr, Collections.reverseOrder());
-            System.out.println(arr);
+            Collections.sort(arr, Collections.reverseOrder()); //O(N log N)
             int count = 1;
             int sum = 0;
             for(int item: arr){

@@ -5,7 +5,39 @@ import java.util.HashMap;
 
 public class Ex_2_MajorityElement_169 {
 
-    public int majorityElement_self(int[] nums) {
+    /**
+     * This is a bruteForce Solution, in which we iterate over the array twice (nested for loops)
+     * where we count occurrence of each number, and as soon as it is grater than majority
+     * we return it.
+     *
+     *
+     * Output: Accepted
+     *
+     * Space Complexity -> O(1)
+
+     * Time Complexity -> O(n^2)
+     *
+     * Verdict : HashMap implementation
+     * */
+
+
+    public int majorityElement_BruteForce(int[] nums){
+        int majCount = nums.length/2;
+        for(int i: nums){
+            int count = 0;
+            for(int j: nums){
+                if(i == j){
+                    count++;
+                }
+            }
+            if(count > majCount){
+                return  i;
+            }
+        }
+        return -1;
+    }
+
+    public int majorityElement_Hashmap(int[] nums) {
 
         /**
          * This solution iterates on the elements of the array and keeps the track of count in the
@@ -34,7 +66,7 @@ public class Ex_2_MajorityElement_169 {
          * Therefore, the algorithm runs in O(n)O(n) time.
          *
          *
-         * Verdict : Self implementation
+         * Verdict : HashMap implementation
          * */
 
         if(nums.length == 1 ){
@@ -74,6 +106,7 @@ public class Ex_2_MajorityElement_169 {
          * /As the majority element is more than half of the array elements,
          * it will definitely be at the center of the array
          *
+         * This works everytime as long as there is a majority element in the array
          *
          * Output: Accepted
          * Runtime - beats 99.93%

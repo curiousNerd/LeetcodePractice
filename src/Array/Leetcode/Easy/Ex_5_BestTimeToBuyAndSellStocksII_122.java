@@ -1,9 +1,4 @@
-package Array.Easy;
-
-import java.util.ArrayList;
-import java.util.List;
-
-import static java.lang.Math.max;
+package Array.Leetcode.Easy;
 
 public class Ex_5_BestTimeToBuyAndSellStocksII_122 {
 
@@ -43,20 +38,20 @@ public class Ex_5_BestTimeToBuyAndSellStocksII_122 {
         return max;
     }
 
-    public int rec(int index, int stock, int tr, int [] arr){
-        if(stock == 0){
-            // buy + dont buy
-            return  max(rec(index+1,1, tr, arr) - arr[index], rec(index+1,0,tr, arr));
-        }
-
-        if(stock == 1){
-            // sell + don't sell
-            return max(rec(index+1, 0, tr+1, arr) + arr[index], rec(index+1,1,tr, arr));
-        }
-
-
-
-    }
+//    public int rec(int index, int stock, int tr, int [] arr){
+//        if(stock == 0){
+//            // buy + dont buy
+//            return  max(rec(index+1,1, tr, arr) - arr[index], rec(index+1,0,tr, arr));
+//        }
+//
+//        if(stock == 1){
+//            // sell + don't sell
+//            return max(rec(index+1, 0, tr+1, arr) + arr[index], rec(index+1,1,tr, arr));
+//        }
+//
+//
+//
+//    }
 
     public static void main(String args []){
         Ex_5_BestTimeToBuyAndSellStocksII_122 obj = new Ex_5_BestTimeToBuyAndSellStocksII_122();
@@ -72,7 +67,7 @@ public class Ex_5_BestTimeToBuyAndSellStocksII_122 {
         int [] arr = {9,2,8};
 
 
-        int profit = obj.rec(0,0,0,arr);
+//        int profit = obj.rec(0,0,0,arr);
     }
 
 }

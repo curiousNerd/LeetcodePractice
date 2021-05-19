@@ -1,7 +1,8 @@
-package Array.Easy;
+package Array.Leetcode.Easy;
 
-import java.lang.reflect.Array;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.HashMap;
 
 public class Ex_3_HighFive_1086 {
 

@@ -1,4 +1,4 @@
-package Array.Easy;
+package Array.Leetcode.Easy;
 
 public class Ex_1_FindPivotIndex_724 {
 
@@ -67,8 +67,8 @@ public class Ex_1_FindPivotIndex_724 {
          * Runtime - beats 100%
          * Memory - beats 73%
          *
-         * Space Complexity ->
-         * Time Complexity ->
+         * Space Complexity -> O(n) **
+         * Time Complexity -> O(n)
          *
          * Verdict : BestCase implementation
          * */

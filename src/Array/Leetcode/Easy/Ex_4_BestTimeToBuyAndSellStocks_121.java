@@ -1,4 +1,4 @@
-package Array.Easy;
+package Array.Leetcode.Easy;
 
 public class Ex_4_BestTimeToBuyAndSellStocks_121 {
 

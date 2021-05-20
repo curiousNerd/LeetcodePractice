@@ -33,18 +33,38 @@ public class Ex_6_FibonacciNumber_509 {
 
     }
 
-    public int fib_memoisation_bottom_up(int n){
+    public int fib_memoization_bottom_up(int n){
 
         /**
          * In computing, memoization is an optimization technique used primarily to speed up computer programs
          * by storing the results of expensive function calls and returning the cached result when
          * the same inputs occur again.
+         *
+         * Here we ae creating a cache (array) with all the values for fibonacci and returning once all the
+         * values are computed
+         *
+         * Space Complexity: O(n) - size of Data Structure is proportionate to n
+         * Time Complexity: O(n) - Loop runs from 2 to N and then )(1) is used to access the
+         *                          elements later on
          * */
 
+        if(n <= 1){
+            return n;
+        }
 
-
-
-
-        return -1;
+        return memoize(n);
     }
-}
+
+    private int memoize(int n){
+
+        int [] cache = new int[n+1];
+        cache[1] = 1;
+
+        for(int i=2; i<=n; i++){
+            cache[i] = cache[i-1] + cache[i-2];
+        }
+
+        return cache[n];
+    }
+
+    }

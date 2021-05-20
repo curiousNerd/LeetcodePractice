@@ -15,3 +15,6 @@ Some Important pointers:
     -> int[] intArray = new int[20]; // combining both statements in one
 
 
+3. Memoization: It is an optimization technique used primarily to speed up computer programs
+                by storing the results of expensive function calls and returning the cached result
+                when the same inputs occur again.

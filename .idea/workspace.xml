@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76508172-08a5-426b-9dca-c2d7678edd25" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Easy/Ex_1_FindPivotIndex_724.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Easy/Ex_2_MajorityElement_169.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Easy/Ex_3_HighFive_1086.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Easy/Ex_4_BestTimeToBuyAndSellStocks_121.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Easy/Ex_5_BestTimeToBuyAndSellStocksII_122.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_6_FibonacciNumber_509.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_6_FibonacciNumber_509.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Pointers" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Pointers" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,54 +18,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Notes/Pointers">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="285">
+              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_6_FibonacciNumber_509.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_1_FindPivotIndex_724.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_3_HighFive_1086.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_2_MajorityElement_169.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_4_BestTimeToBuyAndSellStocks_121.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state>
+              <caret lean-forward="true" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_5_BestTimeToBuyAndSellStocksII_122.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Array/Leetcode/Ex_1_FindPivotIndex_724.java">
+        <entry file="file://$PROJECT_DIR$/src/TODO/Tasks">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="60">
+              <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -100,10 +71,12 @@
         <option value="$PROJECT_DIR$/src/Array/Easy/Ex_5_BestTimeToBuyAndSellStocksII_122.java" />
         <option value="$PROJECT_DIR$/src/Array/Easy/Ex_1_FindPivotIndex_724.java" />
         <option value="$PROJECT_DIR$/src/Array/Easy/Ex_6_FibonacciNumber_509.java" />
-        <option value="$PROJECT_DIR$/src/Notes/Pointers" />
         <option value="$PROJECT_DIR$/src/Array/Leetcode/Medium/Easy/Ex_1_FindPivotIndex_724.java" />
         <option value="$PROJECT_DIR$/src/Array/Leetcode/Ex_1_FindPivotIndex_724.java" />
         <option value="$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_5_BestTimeToBuyAndSellStocksII_122.java" />
+        <option value="$PROJECT_DIR$/src/TODO/Tasks" />
+        <option value="$PROJECT_DIR$/src/Notes/Pointers" />
+        <option value="$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_6_FibonacciNumber_509.java" />
       </list>
     </option>
   </component>
@@ -146,6 +119,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Array" type="462c0819:PsiDirectoryNode" />
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetcodePractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetcodePractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Easy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetcodePractice" type="b2602c69:ProjectViewProjectNode" />
@@ -239,6 +220,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -277,17 +259,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#65#66#0" expanded="true" />
-            <element signature="e#108#109#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file:///var/folders/0r/tdqzbvl91flg82tw96tx58280000gn/T/leetcode/editor/en/[724]Find Pivot Index.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -336,34 +307,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/Leetcode/Ex_1_FindPivotIndex_724.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Array/Easy/Ex_1_FindPivotIndex_724.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
           <caret line="79" column="47" selection-start-line="79" selection-start-column="47" selection-end-line="79" selection-end-column="47" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_6_FibonacciNumber_509.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_1_FindPivotIndex_724.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_3_HighFive_1086.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_2_MajorityElement_169.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_5_BestTimeToBuyAndSellStocksII_122.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_4_BestTimeToBuyAndSellStocks_121.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -379,10 +328,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/Leetcode/Ex_1_FindPivotIndex_724.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_5_BestTimeToBuyAndSellStocksII_122.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding>
+            <element signature="e#65#66#0" expanded="true" />
+            <element signature="e#108#109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_3_HighFive_1086.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_1_FindPivotIndex_724.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_2_MajorityElement_169.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1236">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TODO/Tasks">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetcodePractice.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Notes/Pointers">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="285">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_6_FibonacciNumber_509.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>

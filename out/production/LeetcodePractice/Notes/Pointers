@@ -1,0 +1,20 @@
+Some Important pointers:
+
+1.  The Big O complexity order is :
+    ->  O(1) < O(log n) < O(n) < O(n log n) < O(n^2) < O(2^n) < O(n!)
+
+2. Whenever we declare an array using new operator the elements are automatically initialized
+    -> 0 (for numeric types)
+    -> false (for boolean)
+    -> null (for reference types)
+
+    Declaring array is a two step process
+    -> int intArray[];    //declaring array
+    -> intArray = new int[20];  // allocating memory to array
+
+    -> int[] intArray = new int[20]; // combining both statements in one
+
+
+3. Memoization: It is an optimization technique used primarily to speed up computer programs
+                by storing the results of expensive function calls and returning the cached result
+                when the same inputs occur again.

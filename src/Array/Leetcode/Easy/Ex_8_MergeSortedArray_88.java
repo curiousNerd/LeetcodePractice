@@ -18,7 +18,7 @@ public class Ex_8_MergeSortedArray_88 {
          *
          * Output: Accepted
          *
-         * Space Complexity -> O()
+         * Space Complexity -> O(m+n)
          * We are creating a new array for storing results
          *
          * Time Complexity -> O((n+m) log (m+n))
@@ -39,7 +39,7 @@ public class Ex_8_MergeSortedArray_88 {
          * Here we are using three pointer approach - and we ae starting from the end.
          * So 2 read pointers are used, one for each array where they track the position of the respective array from the end
          * One write pointer is used which writes into the array from the end.
-         *Therefore elements from the back are  compared against each other and the larger element is inserted at the back.
+         *T herefore elements from the back are  compared against each other and the larger element is inserted at the back.
          *
          * Output: Accepted
          *

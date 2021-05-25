@@ -18,3 +18,5 @@ Some Important pointers:
 3. Memoization: It is an optimization technique used primarily to speed up computer programs
                 by storing the results of expensive function calls and returning the cached result
                 when the same inputs occur again.
+
+4. Arrays.sort() is based on TimSort algorithm and has a time complexity of O(n log n)

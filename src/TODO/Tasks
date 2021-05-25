@@ -6,11 +6,11 @@ May 19:
 
 May 25:
 -> Revise
-    * 121 - Done
-    * 88 -
-    * 283 -
-    * 509 -
-    * 1086 -
-    * 724 -
-    * 169 -
+    * 121   - Done
+    * 88    - Done
+    * 283   - Revisit | linear_inPlace
+    * 509   - Done
+    * 1086  - Revisit | Implemented solution is good but very clumsy | Check TreeMap and Comparator
+    * 724   - Done
+    * 169   -
 

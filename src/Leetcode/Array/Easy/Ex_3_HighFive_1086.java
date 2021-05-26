@@ -1,4 +1,4 @@
-package Array.Leetcode.Easy;
+package Leetcode.Array.Easy;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -15,7 +15,7 @@ public class Ex_3_HighFive_1086 {
          * step1: Iterate over each row and create a Map with ID as Key and all the scores as value
          * step2: Iterate over keys in Map
          * step3: For each key sort the corresponding ArrayList of Scores in descending order
-         * step4: Take top 5 elements from this Array and calculate Avg
+         * step4: Take top 5 elements from this Leetcode.Array and calculate Avg
          * step5: Add (Id, AvgScore) in the return array
          * step6: After Iteration completes - return this new array
          *

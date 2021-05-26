@@ -1,6 +1,4 @@
-package Array.Leetcode.Easy;
-
-import javafx.beans.binding.IntegerBinding;
+package Leetcode.Array.Easy;
 
 import java.util.ArrayList;
 import java.util.List;

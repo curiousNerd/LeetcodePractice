@@ -31,17 +31,9 @@ public class Ex_9_TwoSum_1 {
 
     public int[] twoSum_optimized(int[] nums, int target){
 
-        /**
-         * Algorithm:
-         * Step 1: maintains a map which has key -> target - current element, value -> index of current  elem
-         * Step 2: checks if the current element is present in the map - If yes, then returns the index from the map, and current element
-         *
-         * Output: Accepted
-         *
-         * Time Complexity -> O(n)
-         * Space Complexity -> O(n)
-         *
-         **/
+
+
+
 
         HashMap<Integer,Integer> map = new HashMap<>();
         int [] arr = new int[2];

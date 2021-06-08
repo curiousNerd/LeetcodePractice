@@ -112,7 +112,7 @@ public class Ex_2_MajorityElement_169 {
          * Runtime - beats 99.93%
          * Memory - beats 73.29%
          *
-         * Space Complexity -> > O(1)
+         * Space Complexity -> > O(n/2)
          * Time Complexity -> O(n log n)
          *
          * Verdict : _

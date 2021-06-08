@@ -2,20 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76508172-08a5-426b-9dca-c2d7678edd25" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_11_DegreeOfAnArray_697.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodePractice/TODO/Tasks" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodePractice/TODO/Tasks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_10_PascalsTriangle_118.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_10_PascalsTriangle_118.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_11_DegreeOfAnArray_697.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_1_FindPivotIndex_724.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_1_FindPivotIndex_724.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_2_MajorityElement_169.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_2_MajorityElement_169.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_3_HighFive_1086.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_3_HighFive_1086.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_4_BestTimeToBuyAndSellStocks_121.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_4_BestTimeToBuyAndSellStocks_121.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_5_BestTimeToBuyAndSellStocksII_122.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_5_BestTimeToBuyAndSellStocksII_122.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_6_FibonacciNumber_509.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_6_FibonacciNumber_509.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_7_MoveZeroes_283.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_7_MoveZeroes_283.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_8_MergeSortedArray_88.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_8_MergeSortedArray_88.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_9_TwoSum_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_9_TwoSum_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_1_FindPivotIndex_724.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_1_FindPivotIndex_724.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_2_MajorityElement_169.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_2_MajorityElement_169.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_4_BestTimeToBuyAndSellStocks_121.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_4_BestTimeToBuyAndSellStocks_121.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_9_TwoSum_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_9_TwoSum_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TODO/Tasks" beforeDir="false" afterPath="$PROJECT_DIR$/src/TODO/Tasks" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,32 +22,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TODO/Tasks">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_9_TwoSum_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="286">
+              <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_11_DegreeOfAnArray_697.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="15">
               <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_10_PascalsTriangle_118.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
               <folding>
-                <element signature="e#0#188#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_7_MoveZeroes_283.java">
+        <entry file="file://$PROJECT_DIR$/src/TODO/Tasks">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="122" column="8" selection-start-line="122" selection-start-column="8" selection-end-line="125" selection-end-column="33" />
+            <state relative-caret-position="135">
+              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -68,6 +69,14 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/Leetcode/Array/Strings</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -94,18 +103,22 @@
         <option value="$PROJECT_DIR$/src/Notes/Pointers" />
         <option value="$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_8_MergeSortedArray_88.java" />
         <option value="$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_9_TwoSum_1.java" />
-        <option value="$PROJECT_DIR$/src/TODO/Tasks" />
         <option value="$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_10_PascalsTriangle_118.java" />
         <option value="$PROJECT_DIR$/src/Array/Leetcode/Easy/Ex_11_DegreeOfAnArray_697.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_11_DegreeOfAnArray_697.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_1_FindPivotIndex_724.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_2_MajorityElement_169.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_4_BestTimeToBuyAndSellStocks_121.java" />
+        <option value="$PROJECT_DIR$/src/TODO/Tasks" />
+        <option value="$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_9_TwoSum_1.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="1440" />
-    <option name="y" value="54" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-1825" />
+    <option name="y" value="-157" />
+    <option name="width" value="1440" />
+    <option name="height" value="797" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -133,7 +146,22 @@
               <item name="LeetcodePractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetcodePractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetcodePractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetcodePractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="Array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetcodePractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetcodePractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
+              <item name="Easy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetcodePractice" type="b2602c69:ProjectViewProjectNode" />
@@ -268,7 +296,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="54" width="1920" height="1080" extended-state="0" />
+    <frame x="-1920" y="-180" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -279,7 +308,7 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18603411" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="SBT Console" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32826748" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32826748" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Anonymous Apex" />
       <window_info anchor="bottom" id="Log Analyzer" />
@@ -408,13 +437,6 @@
     <entry file="file://$PROJECT_DIR$/LeetcodePractice.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_6_FibonacciNumber_509.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Notes/Pointers">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -422,10 +444,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_4_BestTimeToBuyAndSellStocks_121.java">
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_1_FindPivotIndex_724.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="586">
+          <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_2_MajorityElement_169.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="36" column="18" lean-forward="true" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -436,27 +465,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_2_MajorityElement_169.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="66" column="10" lean-forward="true" selection-start-line="66" selection-start-column="10" selection-end-line="66" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_1_FindPivotIndex_724.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="37" column="51" lean-forward="true" selection-start-line="37" selection-start-column="51" selection-end-line="37" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_8_MergeSortedArray_88.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_5_BestTimeToBuyAndSellStocksII_122.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -464,44 +472,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_9_TwoSum_1.java">
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_4_BestTimeToBuyAndSellStocks_121.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="33" column="8" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="43" selection-end-column="12" />
+        <state relative-caret-position="300">
+          <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_6_FibonacciNumber_509.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="50" column="19" lean-forward="true" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_7_MoveZeroes_283.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TODO/Tasks">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_8_MergeSortedArray_88.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_11_DegreeOfAnArray_697.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_10_PascalsTriangle_118.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="53" column="67" lean-forward="true" selection-start-line="53" selection-start-column="67" selection-end-line="53" selection-end-column="67" />
+        <state relative-caret-position="608">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TODO/Tasks">
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_9_TwoSum_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_7_MoveZeroes_283.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="122" column="8" selection-start-line="122" selection-start-column="8" selection-end-line="125" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/Array/Easy/Ex_11_DegreeOfAnArray_697.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#0#188#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="286">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
         </state>
       </provider>
     </entry>

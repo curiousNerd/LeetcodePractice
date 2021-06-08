@@ -17,8 +17,8 @@ public class Ex_1_FindPivotIndex_724 {
          * Runtime - beats 6%
          * Memory - beats 73%
          *
-         * Space Complexity ->
-         * Time Complexity ->
+         * Space Complexity -> O(1)
+         * Time Complexity -> O(n^2)
          *
          * Verdict : BruteForce implementation
          * */

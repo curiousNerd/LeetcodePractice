@@ -12,7 +12,7 @@ public class Ex_4_BestTimeToBuyAndSellStocks_121 {
          * Runtime - _
          * Memory - _
          *
-         * Space Complexity -> > O(n)
+         * Space Complexity -> > O(1)
          * Time Complexity -> O(n^2)
          *
          * Verdict : _
@@ -43,7 +43,7 @@ public class Ex_4_BestTimeToBuyAndSellStocks_121 {
          * Runtime - beats 100%
          * Memory - beats 94%
          *
-         * Space Complexity -> > O(n)
+         * Space Complexity -> > O(1)
          * Time Complexity -> O(n)
          *
          * Verdict : Optimized
